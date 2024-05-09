@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OcenaFilmow.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OcenaFilmow.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OcenaFilmow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OcenaFilmow.props",
+      "PackagePath": "build\\OcenaFilmow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OcenaFilmow.props",
+      "PackagePath": "buildMultiTargeting\\OcenaFilmow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OcenaFilmow.props",
+      "PackagePath": "buildTransitive\\OcenaFilmow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

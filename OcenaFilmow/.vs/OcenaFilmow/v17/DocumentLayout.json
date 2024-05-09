@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|c:\\users\\admin\\desktop\\programy\\.net\\ocenafilmow\\ocenafilmow\\components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\components\\pages\\moviepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\components\\pages\\moviepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\ocenafilmow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:ocenafilmow\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974850C1-8C39-4853-B043-E42F75E16E3E}|OcenaFilmow\\OcenaFilmow.csproj|solutionrelative:OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Pages\\MoviePages\\Index.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Pages\\MoviePages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:18:17.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240506131912_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs",
+              "RelativeToolTip": "OcenaFilmow\\Data\\Migrations\\20240506131912_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:19:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Pages\\MoviePages\\Create.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Pages\\MoviePages\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T13:16:34.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Movie.cs",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Movie.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Movie.cs",
+              "RelativeToolTip": "OcenaFilmow\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:50:29.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T10:45:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Delete.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Pages\\MoviePages\\Delete.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Delete.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Pages\\MoviePages\\Delete.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T11:34:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240508114540_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs",
+              "RelativeToolTip": "OcenaFilmow\\Data\\Migrations\\20240508114540_Init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:45:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T12:59:26.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Components\\Pages\\MoviePages\\Details.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeToolTip": "OcenaFilmow\\Components\\Pages\\MoviePages\\Details.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T16:14:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240506164644_NowaKolumna.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs",
+              "RelativeToolTip": "OcenaFilmow\\Data\\Migrations\\20240506164644_NowaKolumna.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:46:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OcenaFilmow\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\programy\\.NET\\OcenaFilmow\\OcenaFilmow\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OcenaFilmow\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:02:26.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
